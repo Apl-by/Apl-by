@@ -2,10 +2,10 @@
 <h3 align="center">И я - начинающий веб-разработчик 👨‍💻</h3>
 
 <a href="https://linkedin.com/in/александр-логунов-456251210" target="blank">
-  <img align="left" src="icons/linkedin.svg" alt="александр-логунов linkedin" width="22px" />
+  <img align="left" src="./icons/linkedin.svg" alt="александр-логунов linkedin" width="22px" />
 </a>
 <a href="https://t.me/apl_by">
-  <img align="left" alt="apl-by telegram" width="22px" src="icons/telegram.svg" />
+  <img align="left" alt="apl-by telegram" width="22px" src="./icons/telegram.svg" />
 </a>
 
 - 🔥  Моя цель - стать профессионалом в своём деле
