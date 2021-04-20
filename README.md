@@ -1,12 +1,11 @@
-<a href="https://linkedin.com/in/александр-логунов-456251210" target="_blank">
-  <img align="left" src="./icons/linkedin.svg" alt="александр-логунов linkedin" width="22px" />
-</a>
-<a href="https://t.me/apl_by" target="_blank">
-  <img align="left" alt="apl-by telegram" width="22px" src="./icons/telegram.svg" />
-</a>    
-
+  <a href="https://linkedin.com/in/александр-логунов-456251210" target="_blank">
+    <img align="left" src="./icons/linkedin.svg" alt="александр-логунов linkedin" width="22px" />
+  </a>
+  <a href="https://t.me/apl_by" target="_blank">
+    <img align="left" alt="apl-by telegram" width="22px" src="./icons/telegram.svg" />
+  </a>  
 <h2 align="center">Привет 👋, меня зовут Александр</h1>
-<h3 align="center">И я - начинающий веб-разработчик 👨‍💻</h3>
+<h3 align="center">    И я - начинающий веб-разработчик 👨‍💻</h3>
 
 - 🔥  Моя цель - стать профессионалом в своём деле
 - 💪 Мои средства - упорство и стремление к знаниям
@@ -18,7 +17,7 @@
 
 
 <h3 align="left">Стек:</h3>
-<p align="left">  
+<p align="center">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
