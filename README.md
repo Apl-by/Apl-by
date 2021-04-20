@@ -47,10 +47,11 @@
   </a>  
 </p>
 
+
 <h3 align="left">Статистические данные:</h3>
  
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apl-by&show_icons=true&locale=en" alt="apl-by" /></p>
 
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Apl-by&" alt="apl-by" /></p>
 
-  <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apl-by&show_icons=true&locale=en&layout=compact" alt="apl-by" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apl-by&show_icons=true&locale=en&layout=compact" alt="apl-by" /></p>
