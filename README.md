@@ -1,5 +1,5 @@
-  <a href="https://linkedin.com/in/александр-логунов-456251210" target="_blank">
-    <img align="left" src="./icons/linkedin.svg" alt="александр-логунов linkedin" width="22px" />
+  <a href="https://linkedin.com/in/apl-by" target="_blank">
+    <img align="left" src="./icons/linkedin.svg" alt="apl-by linkedin" width="22px" />
   </a>
   <a href="https://t.me/apl_by" target="_blank">
     <img align="left" alt="apl-by telegram" width="22px" src="./icons/telegram.svg" />
