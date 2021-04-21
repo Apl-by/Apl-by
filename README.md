@@ -1,11 +1,11 @@
   <a href="https://linkedin.com/in/apl-by" target="_blank">
-    <img align="left" src="./icons/linkedin.svg" alt="apl-by linkedin" width="22px" />
+    <img align="right" src="./icons/linkedin.svg" alt="apl-by linkedin" width="22px" />
   </a>
   <a href="https://t.me/apl_by" target="_blank">
-    <img align="left" alt="apl-by telegram" width="22px" src="./icons/telegram.svg" />
+    <img align="right" alt="apl-by telegram" width="22px" src="./icons/telegram.svg" />
   </a>  
-<h2 align="center">Привет 👋, меня зовут Александр</h1>
-<h3 align="center">    И я - начинающий веб-разработчик 👨‍💻</h3>
+<h2 align="left">Привет 👋, меня зовут Александр</h1>
+<h3 align="left">    И я - начинающий веб-разработчик 👨‍💻</h3>
 
 - 🔥  Моя цель - стать профессионалом в своём деле
 - 💪 Мои средства - упорство и стремление к знаниям
@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Стек:</h3>
-<p align="center">  
+<p align="left">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
@@ -55,6 +55,6 @@
 
 <h3 align="left">Статистические данные:</h3>
  
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apl-by&show_icons=true&locale=en" alt="apl-by" /></p>
+  <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apl-by&show_icons=true&locale=en" alt="apl-by" /></p>
 
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apl-by&show_icons=true&locale=en&layout=compact" alt="apl-by" /></p>
+  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apl-by&show_icons=true&locale=en&layout=compact" alt="apl-by" /></p>
