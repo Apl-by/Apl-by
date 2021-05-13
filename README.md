@@ -39,7 +39,7 @@
    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge" height="23px"/>
   </a>  
   <a href="https://www.mongodb.com/" target="_blank">
-   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="23px"/>
+   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="23px"/>
   </a> 
   <a href="https://webpack.js.org" target="_blank">
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" height="23px" />
