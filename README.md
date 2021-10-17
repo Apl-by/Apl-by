@@ -5,14 +5,10 @@
     <img align="right" alt="apl-by telegram" width="22px" src="./icons/telegram.svg" />
   </a>  
 <h2 align="left">Привет 👋, меня зовут Александр</h1>
-<h3 align="left"> и я - начинающий веб-разработчик 👨‍💻</h3>
 
-- 🔥  Моя цель - стать профессионалом в своём деле
-- 💪 Мои средства - упорство и стремление к знаниям
-- ✍️ Учусь писать чистый и упорядоченный код
-- 🤝 Хочу работать в классной команде   
-- 👨‍💻 Изучаю JS и React
-- 📝 Ближайшие планы - изучить TypeScript и Redux
+* 🌱 - я развиваюсь в веб-разработке в направлении JS(TS), React
+* 🎈 - люблю чистый код  
+* 🤝 - открыт для коллабораций
 
 
 <h3 align="left">Стек:</h3>
@@ -47,12 +43,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="23px"/>
   </a> 
-  <a href="https://www.figma.com/" target="_blank">
-    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" height="23px"/>
-  </a>  
-  <a href="https://postman.com" target="_blank">
-   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="23px"/>
-  </a>  
 </p>
 
 
