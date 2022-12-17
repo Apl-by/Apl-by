@@ -35,6 +35,9 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" height="23px"/>
   </a>  
+  <a href="https://mui.com/" target="_blank">
+    <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="23px"/>
+  </a>  
   <a href="https://nodejs.org" target="_blank">
    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="23px"/>
   </a>
