@@ -26,6 +26,9 @@
   <a href="https://redux.js.org/" target="_blank">
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="23px"/>
   </a> 
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.Js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="23px"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="23px"/>
   </a> 
